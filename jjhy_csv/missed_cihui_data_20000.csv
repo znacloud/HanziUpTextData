@@ -1,0 +1,6 @@
+rank,cihui,pinyin,mismatch_parsed,invalid_parsed,has_subdefs
+15007,做客,zuòkè,False,False,False
+16236,青年团,qīngniántuán,False,False,False
+16237,黯淡,àndàn,False,True,False
+19074,霓虹,níhóng,False,False,False
+19872,士官,shìguān,False,False,False

@@ -1,0 +1,51 @@
+rank,cihui,pinyin,mismatch_parsed,invalid_parsed,has_subdefs,raw_html
+80412,一枕黄粱,yīzhěn-huángliáng,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>一枕黄粱</x-hw><x-pr> yīzhěn-huángliáng</x-pr>
+<dt>见“<a href=""entry://黄粱梦"" type=""see"">黄粱梦</a>”<x-f>。</x-f><t-note><x-lb>用法说明</x-lb>“粱”不要误写作“梁”<x-f>。</x-f></t-note>
+"
+80500,大概齐,dàgàiqí,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>大概齐</x-hw><x-pr> dàgàiqí</x-pr>现在一般写作“大概其”<x-f>。</x-f></dt>
+"
+80801,趼子,jiǎnzi,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>趼子</x-hw><x-pr> jiǎnzi</x-pr><br>见“<a href=""entry://茧子"" type=""see"">茧子</a>”<x-f>。</x-f>现在一般写作“茧子”<x-f>。</x-f></dt>
+"
+80968,纸煤,zhǐméi,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>纸煤</x-hw><x-pr> zhǐméi</x-pr>
+<dt>见“<a href=""entry://纸媒"" type=""see"">纸媒</a>”<x-f>。</x-f>现在一般写作“纸媒”<x-f>。</x-f></dt>
+"
+80977,蚂蜂,mǎfēng,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>蚂蜂</x-hw><x-pr> mǎfēng</x-pr><br>现在规范词形写作“<a href=""entry://马蜂"" type=""normalized"">马蜂</a>”<x-f>。</x-f>
+"
+81464,磨不开,mòbukāi,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>磨不开</x-hw><x-pr> mòbukāi</x-pr>现在一般写作“抹不开”<x-f>。</x-f></dt>
+"
+81901,竦然,sǒngrán,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>竦然</x-hw><x-pr> sǒngrán</x-pr>现在一般写作“悚然”<x-f>。</x-f></dt>
+"
+82276,形旁,xíngpáng,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>形旁</x-hw><x-pr> xíngpáng</x-pr><br><x-gram>名</x-gram>汉字形声字中与字义有关的偏旁<x-f>。</x-f></dt>（也说意符<x-f>。</x-f>）
+<dt>见“<a href=""entry://形声"" type=""see"">形声</a>”<x-f>。</x-f>
+"
+82770,砂包,shābāo,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>砂包</x-hw><x-pr> shābāo</x-pr><br>见“<a href=""entry://沙包"" type=""see"">沙包</a>”<x-f>。</x-f>现在一般写作“沙包”<x-f>。</x-f></dt>
+"
+82995,嗤溜,chīliū,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>嗤溜</x-hw><x-pr> chīliū</x-pr>现在一般写作“哧溜”<x-f>。</x-f></dt>
+"
+83230,澹然,dànrán,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>澹然</x-hw><x-pr> dànrán</x-pr><br>现在规范词形写作“<a href=""entry://淡然"" type=""normalized"">淡然</a>”<x-f>。</x-f>
+"
+83266,跳踉,tiàoliáng,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>跳踉</x-hw><x-pr> tiàoliáng</x-pr>现在一般写作“跳梁”<x-f>。</x-f></dt>
+"
+83315,警省,jǐngxǐng,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>警省</x-hw><x-pr> jǐngxǐng</x-pr>
+<dt>见“<a href=""entry://警醒"" type=""see"">警醒</a>”<x-f>。</x-f>现在一般写作“警醒”<x-f>。</x-f></dt>
+"
+83523,璧还,bìhuán,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>璧还</x-hw><x-pr> bìhuán</x-pr>〈文〉<br><x-gram>动</x-gram>敬词，比喻把物品完好无损地奉还主人<x-f>。</x-f></dt><dd><x-ex>大作拜读完毕，兹<x-key>璧还</x-key><x-f>。</x-f></x-ex></dd>
+<dt>见“<a href=""entry://完璧归赵"" type=""see"">完璧归赵</a>”<x-f>。</x-f>
+"
+83619,熟石膏,shúshígāo,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>熟石膏</x-hw><x-pr> shúshígāo</x-pr><br><x-gram>名</x-gram>加热脱水的石膏，多用来制作石膏像、石膏模型和粉刷墙壁等<x-f>。</x-f></dt>
+<dt>见“<a href=""entry://石膏"" type=""see"">石膏</a>”<x-f>。</x-f>
+"
+83704,钉书机,dìngshūjī,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>钉书机</x-hw><x-pr> dìngshūjī</x-pr>现在一般写作“订书机”<x-f>。</x-f></dt>
+"
+84103,伥鬼,chāngguǐ,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>伥鬼</x-hw><x-pr> chāngguǐ</x-pr><br><x-gram>名</x-gram>传说中帮助老虎吃人的鬼，是被老虎咬死的人变成的<x-f>。</x-f></dt>
+<dt>见“<a href=""entry://为虎作伥"" type=""see"">为虎作伥</a>”<x-f>。</x-f>
+"
+84415,澈底,chèdǐ,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>澈底</x-hw><x-pr> chèdǐ</x-pr><br>现在规范词形写作“<a href=""entry://彻底"" type=""normalized"">彻底</a>”<x-f>。</x-f>
+"
+84722,蓝盈盈,lányíngyíng,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>蓝盈盈</x-hw><x-pr> lányíngyíng</x-pr>现在一般写作“蓝莹莹”<x-f>。</x-f></dt>
+"
+84930,铫子,diàozi,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>铫子</x-hw><x-pr> diàozi</x-pr>现在一般写作“吊子”<x-f>。</x-f></dt>
+"
+84940,梓里,zǐlǐ,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>梓里</x-hw><x-pr> zǐlǐ</x-pr><br><x-gram>名</x-gram>故乡<x-f>。</x-f></dt>
+<dt>见“<a href=""entry://桑梓"" type=""see"">桑梓</a>”<x-f>。</x-f>
+"

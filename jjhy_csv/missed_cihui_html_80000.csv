@@ -1,0 +1,47 @@
+rank,cihui,pinyin,mismatch_parsed,invalid_parsed,has_subdefs,raw_html
+75064,幽闲,yōuxián,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>幽闲</x-hw><x-pr> yōuxián</x-pr>
+<dt><x-sn>①</x-sn>见“<a href=""entry://幽娴"" type=""see"">幽娴</a>”<x-f>。</x-f>现在一般写作“幽娴”<x-f>。</x-f></dt>
+<dt><x-sn>②</x-sn>见“<a href=""entry://悠闲"" type=""see"">悠闲</a>”<x-f>。</x-f>现在一般写作“悠闲”<x-f>。</x-f></dt>
+"
+75177,背理,bèilǐ,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>背理</x-hw><x-pr> bèilǐ</x-pr>现在一般写作“悖理”<x-f>。</x-f></dt>
+"
+75372,侈糜,chǐmí,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>侈糜</x-hw><x-pr> chǐmí</x-pr><br>现在规范词形写作“<a href=""entry://侈靡"" type=""normalized"">侈靡</a>”<x-f>。</x-f>
+"
+76220,委过,wěiguò,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>委过</x-hw><x-pr> wěiguò</x-pr><br>现在规范词形写作“<a href=""entry://诿过"" type=""normalized"">诿过</a>”<x-f>。</x-f>
+"
+76722,首坐,shǒuzuò,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>首坐</x-hw><x-pr> shǒuzuò</x-pr>
+<dt>见“<a href=""entry://首座"" type=""see"">首座</a>”<x-f>。</x-f>现在规范词形写作“<a href=""entry://首座"" type=""normalized"">首座</a>”<x-f>。</x-f>
+"
+76769,帏幕,wéimù,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>帏幕</x-hw><x-pr> wéimù</x-pr>现在一般写作“帷幕”<x-f>。</x-f></dt>
+"
+76799,简截,jiǎnjié,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>简截</x-hw><x-pr> jiǎnjié</x-pr><br>见“<a href=""entry://简捷"" type=""see"">简捷</a>”<x-f>。</x-f>现在一般写作“简捷”<x-f>。</x-f></dt>
+"
+76984,沙鱼,shāyú,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>沙鱼</x-hw><x-pr> shāyú</x-pr><br>现在规范词形写作“<a href=""entry://鲨鱼"" type=""normalized"">鲨鱼</a>”<x-f>。</x-f>
+"
+77134,藐小,miǎoxiǎo,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>藐小</x-hw><x-pr> miǎoxiǎo</x-pr>现在一般写作“渺小”<x-f>。</x-f></dt>
+"
+77821,踟躇,chíchú,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>踟躇</x-hw><x-pr> chíchú</x-pr>现在一般写作“踟蹰”<x-f>。</x-f></dt>
+"
+77825,法定计量单位,fǎdìng jìliàng dānwèi,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>法定计量单位</x-hw><x-pr> fǎdìng jìliàng dānwèi</x-pr>由国家法令规定使用的计量单位。我国法定计量单位以国际单位制为基础，根据我国实际情况，适当增加一些其他单位而构成<x-f>。</x-f></dt>
+<dt>见“<a href=""entry://国际单位制"" type=""see"">国际单位制</a>”<x-f>。</x-f>
+"
+78167,惟命是从,wéimìngshìcóng,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>惟命是从</x-hw><x-pr> wéimìngshìcóng</x-pr>现在一般写作“唯命是从”<x-f>。</x-f></dt>
+"
+78199,啦呱,lāgua,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>啦呱</x-hw><x-pr> lāgua</x-pr>现在一般写作“拉呱”<x-f>。</x-f></dt>
+"
+78235,殒灭,yǔnmiè,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>殒灭</x-hw><x-pr> yǔnmiè</x-pr><br>见“<a href=""entry://陨灭"" type=""see"">陨灭</a>”<x-f>。</x-f>现在一般写作“陨灭”<x-f>。</x-f></dt>
+"
+78724,钢版,gāngbǎn,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>钢版</x-hw><x-pr> gāngbǎn</x-pr>
+<dt>见“<a href=""entry://钢板"" type=""see"">钢板</a>”<x-f>。</x-f>现在一般写作“钢板”<x-f>。</x-f></dt>
+"
+78906,强嘴,jiàngzuǐ,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>强嘴</x-hw><x-pr> jiàngzuǐ</x-pr>现在一般写作“犟嘴”<x-f>。</x-f></dt>
+"
+79020,一二九运动,yī'èr-jiǔ yùndòng,True,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>一二·九运动</x-hw><x-pr> yī'èr-jiǔ yùndòng</x-pr>
+<dt>1935年12月9日北平（今北京）学生在中国共产党领导下发动的抗日救国运动。1931年日本帝国主义侵略我国，国民党政府步步退让。1935年8月1日中国共产党发表《八一宣言》，号召全国人民抗日救国。12月9日，北平学生6000多人举行示威游行，提出“停止内战，一致对外” “打倒日本帝国主义”等口号。运动很快发展到全国，掀起了中国人民抗日救国的新高潮<x-f>。</x-f></dt>
+"
+79133,刻日,kèrì,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>刻日</x-hw><x-pr> kèrì</x-pr><br>现在规范词形写作“<a href=""entry://克日"" type=""normalized"">克日</a>”<x-f>。</x-f>
+"
+79146,希珍,xīzhēn,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>希珍</x-hw><x-pr> xīzhēn</x-pr>现在一般写作“稀珍”<x-f>。</x-f></dt>
+"
+79903,玎珰,dīngdāng,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>玎珰</x-hw><x-pr> dīngdāng</x-pr>现在一般写作“叮当”<x-f>。</x-f></dt>
+"

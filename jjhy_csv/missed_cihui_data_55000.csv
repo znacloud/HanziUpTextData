@@ -1,0 +1,9 @@
+rank,cihui,pinyin,mismatch_parsed,invalid_parsed,has_subdefs
+50363,北回归线,běihuíguīxiàn,False,False,False
+51254,倔犟,juéjiàng,False,True,False
+51337,混水摸鱼,húnshuǐ-mōyú,False,True,False
+51532,壁上观,bìshàngguān,False,False,False
+52728,相变,xiàngbiàn,False,False,False
+53175,佳宾,jiābīn,False,True,False
+54274,颠狂,diānkuáng,False,True,False
+54820,尉官,wèiguān,False,False,False

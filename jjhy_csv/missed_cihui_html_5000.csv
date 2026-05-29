@@ -1,0 +1,5 @@
+rank,cihui,pinyin,mismatch_parsed,invalid_parsed,has_subdefs,raw_html
+861,其它,qítā,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>其它</x-hw><x-pr> qítā</x-pr>现在一般写作“其他”<x-f>。</x-f></dt>
+"
+1703,待会儿,dāihuìr,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>待会<x-er>儿</x-er></x-hw><x-pr> dāihuìr</x-pr>现在一般写作“呆会<x-er>儿</x-er>”<x-f>。</x-f>
+"

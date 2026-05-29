@@ -1,0 +1,6 @@
+rank,cihui,pinyin,mismatch_parsed,invalid_parsed,has_subdefs
+25313,武工,wǔgōng,False,False,False
+26024,子部,zǐbù,False,False,False
+26433,颤栗,zhànlì,False,True,False
+27926,份内,fènnèi,False,True,False
+29913,份外,fènwài,False,False,False

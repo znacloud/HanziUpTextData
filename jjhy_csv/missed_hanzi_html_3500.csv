@@ -1,0 +1,120 @@
+rank,hanzi,pinyin,mismatch_parsed,invalid_parsed,has_subdefs,raw_html
+1481,莉,lì,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>莉</x-hw><x-pr> lì</x-pr><br>见“<a href=""x-dictionary:r:000A060:com.apple.dictionary.zh_CN.SDCC#xpointer(//*[@id='000A061'])"" title=""茉"" type=""see"">茉（mò）莉</a>”<x-f>。</x-f>
+"
+1789,璃,lí,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>璃</x-hw><x-pr> lí</x-pr>（*琍*瓈）
+<dt>见“玻璃”<x-f>。</x-f>
+"
+1876,萄,táo,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>萄</x-hw><x-pr> táo</x-pr>
+<dt>见“<a href=""entry://葡萄"" type=""see"">葡（pú）萄</a>”<x-f>。</x-f>
+"
+1913,圾,jī,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>圾</x-hw><x-pr> jī</x-pr>
+<dt>见“<a href=""entry://垃圾"" type=""see"">垃圾</a>”<x-f>。</x-f><br><t-note><x-lb>用法说明</x-lb>统读 jī，不读 jí<x-f>。</x-f></t-note>
+"
+2245,斌,bīn,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>斌</x-hw><x-pr> bīn</x-pr>
+<dt>同 “<a href=""entry://彬"" type=""sameas"">彬</a>”
+"
+2326,谭,tán,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>谭</x-hw><x-pr> tán</x-pr>（譚）
+<dt><x-sn>①</x-sn>古同“<a href=""entry://谈"" type=""sameas"">谈</a>”<x-f>。</x-f>
+<dt><x-sn>②</x-sn><sbl2>○</sbl2><x-gram>名</x-gram>姓<x-f>。</x-f></dt>
+"
+2509,尬,gà,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>尬</x-hw><x-pr> gà</x-pr><br>见“<a href=""x-dictionary:r:0004889:com.apple.dictionary.zh_CN.SDCC#xpointer(//*[@id='000488B'])"" title=""尴"" type=""see"">尴（gān）尬</a>”<x-f>。</x-f>
+"
+2542,蓉,róng,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>蓉</x-hw><x-pr> róng</x-pr>
+<dt><x-sn>①</x-sn>见“<a href=""entry://芙蓉"" type=""see"">芙蓉</a>”<x-f>。</x-f>
+<dt><x-sn>②</x-sn><sbl>→</sbl><x-gram>名</x-gram>四川成都的别称<x-f>。</x-f></dt><dd><x-ex><x-key>蓉</x-key>城</x-ex></dd>
+<dt><x-sn>③</x-sn><sbl2>○</sbl2><x-g>名</x-g>瓜果、豆类煮熟晒干后磨成的粉状物，可以做糕点馅<x-er>儿</x-er><x-f>。</x-f><dd><x-ex>椰<x-key>蓉</x-key></x-ex><x-ex><x-lb> | </x-lb>莲<x-key>蓉</x-key></x-ex><x-ex><x-lb> | </x-lb>豆<x-key>蓉</x-key></x-ex></dd>
+<dt><x-sn>④</x-sn><sbl2>○</sbl2><x-g>名</x-g>姓<x-f>。</x-f></dt>
+"
+2590,咐,fù,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>咐</x-hw><x-pr> fù</x-pr>
+<dt>见“吩咐”<x-f>。</x-f>
+"
+2591,匈,xiōng,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>匈</x-hw><x-pr> xiōng</x-pr><br>古同“<a href=""entry://胸"" type=""sameas"">胸</a>”<x-f>。</x-f>
+"
+2631,丙,bǐng,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>丙</x-hw><x-pr> bǐng</x-pr><br><x-gram>名</x-gram>天干的第三位，常用来表示顺序或等级的第三位<x-f>。</x-f></dt>
+<dt>见“<a href=""entry://干支"" type=""see"">干支</a>”<x-f>。</x-f>
+"
+2819,凰,huáng,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>凰</x-hw><x-pr> huáng</x-pr><br>见“<a href=""entry://凤凰"" type=""see"">凤凰</a>”<x-f>。</x-f>
+"
+2864,榄,lǎn,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>榄</x-hw><x-pr> lǎn</x-pr>（欖）
+<dt>见“<a href=""entry://橄榄"" type=""see"">橄榄</a>”<x-f>。</x-f>
+"
+2927,肪,fáng,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>肪</x-hw><x-pr> fáng</x-pr>
+<dt>见“<a href=""entry://脂肪"" type=""see"">脂肪</a>”<x-f>。</x-f><br><t-note><x-lb>用法说明</x-lb>统读 fáng，不读 fāng<x-f>。</x-f></t-note>
+"
+2943,钮,niǔ,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>钮</x-hw><x-pr> niǔ</x-pr>（鈕）
+<dt><x-sn>①</x-sn>同 “<a href=""entry://纽"" type=""sameas"">纽</a>”<x-f>。</x-f>
+<dt><x-sn>②</x-sn><sbl>→</sbl><x-gram>名</x-gram>器物上起开关、转动或调节作用的部件<x-f>。</x-f></dt><dd><x-ex>电<x-key>钮</x-key></x-ex><x-ex><x-lb> | </x-lb>旋<x-key>钮</x-key></x-ex><x-ex><x-lb> | </x-lb>按<x-key>钮</x-key></x-ex></dd>
+<dt><x-sn>③</x-sn><sbl2>○</sbl2><x-g>名</x-g>姓<x-f>。</x-f></dt>
+"
+2946,徊,huái,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>徊</x-hw><x-pr> huái</x-pr>
+<dt>见“<a href=""x-dictionary:r:000A8AB:com.apple.dictionary.zh_CN.SDCC#xpointer(//*[@id='000A8AC'])"" title=""徘"" type=""see"">徘徊</a>”<x-f>。</x-f><br><t-note><x-lb>用法说明</x-lb>统读 huái，不读 huí<x-f>。</x-f></t-note>
+"
+3070,嗦,suō,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>嗦</x-hw><x-pr> suō</x-pr>
+<dt><x-sn>①</x-sn>见“<a href=""entry://哆嗦"" type=""see"">哆（duō）嗦</a>”<x-f>。</x-f>
+<dt><x-sn>②</x-sn><sbl2>○</sbl2>见“<a href=""entry://啰嗦"" type=""see"">啰（luō）嗦</a>”<x-f>。</x-f>
+"
+3089,咙,lóng,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>咙</x-hw><x-pr> lóng</x-pr>（嚨）
+<dt>见“<a href=""entry://喉咙"" type=""see"">喉咙</a>”<x-f>。</x-f>
+"
+3123,痪,huàn,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>痪</x-hw><x-pr> huàn</x-pr>
+<dt>见“<a href=""entry://瘫痪"" type=""see"">瘫痪</a>”<x-f>。</x-f>
+"
+3213,鹃,juān,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>鹃</x-hw><x-pr> juān</x-pr>（鵑）<br>见“<a href=""entry://杜鹃"" type=""see"">杜鹃</a>”<x-f>。</x-f>
+"
+3261,瑙,nǎo,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>瑙</x-hw><x-pr> nǎo</x-pr>
+<dt>见“<a href=""entry://玛瑙"" type=""see"">玛瑙</a>”<x-f>。</x-f><br><t-note><x-lb>用法说明</x-lb>右边不能类推简化成“㐫”<x-f>。</x-f></t-note>
+"
+3274,蝠,fú,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>蝠</x-hw><x-pr> fú</x-pr>
+<dt>见“<a href=""entry://蝙蝠"" type=""see"">蝙（biān）蝠</a>”<x-f>。</x-f>
+"
+3293,檬,méng,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>檬</x-hw><x-pr> méng</x-pr><br>见“<a href=""entry://柠檬"" type=""see"">柠檬</a>”<x-f>。</x-f>
+"
+3333,湃,pài,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>湃</x-hw><x-pr> pài</x-pr>
+<dt>见“<a href=""entry://澎湃"" type=""see"">澎（péng）湃</a>”<x-f>。</x-f><br><t-note><x-lb>用法说明</x-lb>统读 pài，不读 bài<x-f>。</x-f></t-note>
+"
+3334,悴,cuì,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>悴</x-hw><x-pr> cuì</x-pr>（*顇）
+<dt>见“<a href=""x-dictionary:r:000B630:com.apple.dictionary.zh_CN.SDCC#xpointer(//*[@id='000B633'])"" title=""憔"" type=""see"">憔（qiáo）悴</a>”<x-f>。</x-f>
+"
+3338,蟆,má,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>蟆</x-hw><x-pr> má</x-pr>（*蟇）<br>见“<a href=""entry://蛤蟆"" type=""see"">蛤（há）蟆</a>”<x-f>。</x-f>
+"
+3340,狈,bèi,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>狈</x-hw><x-pr> bèi</x-pr>（狽）
+<dt>见“<a href=""entry://狼狈"" type=""see"">狼狈</a>”<x-f>。</x-f>
+"
+3347,皿,mǐn,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>皿</x-hw><x-pr> mǐn</x-pr>
+<dt>见“<a href=""entry://器皿"" type=""see"">器皿</a>”<x-f>。</x-f><br><t-note><x-lb>用法说明</x-lb>统读 mǐn，不读 míng<x-f>。</x-f></t-note>
+"
+3396,雳,lì,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>雳</x-hw><x-pr> lì</x-pr>（靂）
+<dt>见“<a href=""entry://霹雳"" type=""see"">霹（pī）雳</a>”<x-f>。</x-f>
+"
+3397,俐,lì,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>俐</x-hw><x-pr> lì</x-pr>
+<dt>见“<a href=""entry://伶俐"" type=""see"">伶俐</a>”<x-f>。</x-f>
+"
+3404,蹋,tà,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>蹋</x-hw><x-pr> tà</x-pr>
+<dt><x-sn>①</x-sn>古同“踏”<x-f>。</x-f>
+<dt><x-sn>②</x-sn><sbl>→</sbl><x-gram>动</x-gram>〈文〉踢<x-f>。</x-f></dt><dd><x-ex><x-key>蹋</x-key>鞠（鞠：古代一种革制的实心球）<x-f>。</x-f></x-ex></dd>
+"
+3424,鸯,yāng,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>鸯</x-hw><x-pr> yāng</x-pr>（鴦）<br>见“<a href=""entry://鸳鸯"" type=""see"">鸳（yuān）鸯</a>”<x-f>。</x-f>
+"
+3426,鹉,wǔ,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>鹉</x-hw><x-pr> wǔ</x-pr>（鵡）
+<dt>见“<a href=""entry://鹦鹉"" type=""see"">鹦（yīng）鹉</a>”<x-f>。</x-f>
+"
+3430,岖,qū,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>岖</x-hw><x-pr> qū</x-pr>（嶇）<br>见“<a href=""entry://崎岖"" type=""see"">崎（qí）岖</a>”<x-f>。</x-f>
+"
+3440,窿,lóng,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>窿</x-hw><x-pr> lóng</x-pr>
+<dt>见“<a href=""entry://窟窿"" type=""see"">窟窿（long）</a>”<x-f>。</x-f>
+"
+3456,蜓,tíng,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>蜓</x-hw><x-pr> tíng</x-pr>
+<dt>见“<a href=""entry://蜻蜓"" type=""see"">蜻（qīng）蜓</a>”<x-f>。</x-f>
+"
+3463,躏,lìn,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>躏</x-hw><x-pr> lìn</x-pr>（躪）
+<dt>见“<a href=""entry://蹂躏"" type=""see"">蹂（róu）躏</a>”<x-f>。</x-f>
+"
+3471,蟀,shuài,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>蟀</x-hw><x-pr> shuài</x-pr>
+<dt>见“<a href=""x-dictionary:r:000F1EE:com.apple.dictionary.zh_CN.SDCC#xpointer(//*[@id='000F1EF'])"" title=""蟋"" type=""see"">蟋（xī）蟀</a>”<x-f>。</x-f><br><t-note><x-lb>用法说明</x-lb>统读 shuài，不读 shuò<x-f>。</x-f></t-note>
+"
+3492,蚪,dǒu,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>蚪</x-hw><x-pr> dǒu</x-pr>
+<dt>见“<a href=""x-dictionary:r:0007FCE:com.apple.dictionary.zh_CN.SDCC#xpointer(//*[@id='0007FCF'])"" title=""蝌"" type=""see"">蝌蚪</a>”<x-f>。</x-f>
+"
+3495,蚣,gōng,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>蚣</x-hw><x-pr> gōng</x-pr>
+<dt>见“<a href=""x-dictionary:r:000EF5C:com.apple.dictionary.zh_CN.SDCC#xpointer(//*[@id='000EF5D'])"" title=""蜈"" type=""see"">蜈（wú）蚣</a>”<x-f>。</x-f>
+"

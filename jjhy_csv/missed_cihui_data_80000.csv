@@ -1,0 +1,21 @@
+rank,cihui,pinyin,mismatch_parsed,invalid_parsed,has_subdefs
+75064,幽闲,yōuxián,False,False,False
+75177,背理,bèilǐ,False,True,False
+75372,侈糜,chǐmí,False,True,False
+76220,委过,wěiguò,False,True,False
+76722,首坐,shǒuzuò,False,False,False
+76769,帏幕,wéimù,False,True,False
+76799,简截,jiǎnjié,False,True,False
+76984,沙鱼,shāyú,False,True,False
+77134,藐小,miǎoxiǎo,False,True,False
+77821,踟躇,chíchú,False,True,False
+77825,法定计量单位,fǎdìng jìliàng dānwèi,False,False,False
+78167,惟命是从,wéimìngshìcóng,False,True,False
+78199,啦呱,lāgua,False,True,False
+78235,殒灭,yǔnmiè,False,True,False
+78724,钢版,gāngbǎn,False,False,False
+78906,强嘴,jiàngzuǐ,False,True,False
+79020,一二九运动,yī'èr-jiǔ yùndòng,True,False,False
+79133,刻日,kèrì,False,True,False
+79146,希珍,xīzhēn,False,True,False
+79903,玎珰,dīngdāng,False,True,False

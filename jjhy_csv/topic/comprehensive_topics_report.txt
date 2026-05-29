@@ -1,0 +1,917 @@
+COMPREHENSIVE FILTERED TOPICS ANALYSIS REPORT
+============================================================
+
+DATASET OVERVIEW
+------------------------------
+Total rows: 35,860
+Total columns: 8
+File size: 13.29 MB
+Unique items: 29,188
+
+CATEGORY STRUCTURE
+------------------------------
+Root categories: 17
+Parent categories: 144
+Leaf categories: 3,697
+
+ROOT CATEGORIES SUMMARY
+------------------------------
+ 1. 思想·语言·信息
+    Items: 3,849
+    Parent categories: 9
+    Leaf categories: 388
+
+ 2. 事情·情状(一般)
+    Items: 3,836
+    Parent categories: 9
+    Leaf categories: 334
+
+ 3. 人类·社会
+    Items: 3,591
+    Parent categories: 10
+    Leaf categories: 351
+
+ 4. 政治·法律·军事
+    Items: 3,443
+    Parent categories: 11
+    Leaf categories: 329
+
+ 5. 感觉·情感·性格·行为
+    Items: 3,408
+    Parent categories: 6
+    Leaf categories: 303
+
+ 6. 饮食·衣服·居住·财产
+    Items: 2,325
+    Parent categories: 13
+    Leaf categories: 270
+
+ 7. 物质·物体
+    Items: 2,243
+    Parent categories: 8
+    Leaf categories: 240
+
+ 8. 宇宙·地球
+    Items: 2,181
+    Parent categories: 10
+    Leaf categories: 199
+
+ 9. 人体·医药·卫生
+    Items: 2,092
+    Parent categories: 12
+    Leaf categories: 208
+
+10. 教育·文化·艺术·体育
+    Items: 1,900
+    Parent categories: 10
+    Leaf categories: 240
+
+11. 行动·交通运输
+    Items: 1,604
+    Parent categories: 9
+    Leaf categories: 194
+
+12. 经济·商业·职业
+    Items: 1,323
+    Parent categories: 8
+    Leaf categories: 175
+
+13. 生命·生物
+    Items: 1,112
+    Parent categories: 12
+    Leaf categories: 128
+
+14. 工业·科技
+    Items: 1,029
+    Parent categories: 4
+    Leaf categories: 129
+
+15. 数量
+    Items: 841
+    Parent categories: 4
+    Leaf categories: 80
+
+16. 农业
+    Items: 681
+    Parent categories: 7
+    Leaf categories: 95
+
+17. 宗教·民间信仰
+    Items: 402
+    Parent categories: 2
+    Leaf categories: 40
+
+PARENT CATEGORIES SUMMARY (Top 50)
+----------------------------------------
+ 1. 情形·状况
+    Root: 事情·情状(一般)
+    Items: 799
+    Leaf categories: 77
+
+ 2. 程度·范围·可能
+    Root: 事情·情状(一般)
+    Items: 615
+    Leaf categories: 48
+
+ 3. 做事
+    Root: 事情·情状(一般)
+    Items: 573
+    Leaf categories: 47
+
+ 4. 因果·过程
+    Root: 事情·情状(一般)
+    Items: 400
+    Leaf categories: 34
+
+ 5. 发展·变化
+    Root: 事情·情状(一般)
+    Items: 365
+    Leaf categories: 28
+
+ 6. 关联·异同
+    Root: 事情·情状(一般)
+    Items: 334
+    Leaf categories: 29
+
+ 7. 限制·破坏
+    Root: 事情·情状(一般)
+    Items: 281
+    Leaf categories: 24
+
+ 8. 成功·失败
+    Root: 事情·情状(一般)
+    Items: 236
+    Leaf categories: 22
+
+ 9. 事情(一般)
+    Root: 事情·情状(一般)
+    Items: 233
+    Leaf categories: 25
+
+10. 医疗·药物
+    Root: 人体·医药·卫生
+    Items: 304
+    Leaf categories: 30
+
+11. 生病·伤残
+    Root: 人体·医药·卫生
+    Items: 263
+    Leaf categories: 29
+
+12. 一般身体状况
+    Root: 人体·医药·卫生
+    Items: 220
+    Leaf categories: 22
+
+13. 体态·容貌
+    Root: 人体·医药·卫生
+    Items: 213
+    Leaf categories: 17
+
+14. 疾病
+    Root: 人体·医药·卫生
+    Items: 174
+    Leaf categories: 20
+
+15. 卫生
+    Root: 人体·医药·卫生
+    Items: 160
+    Leaf categories: 18
+
+16. 人体(一般)
+    Root: 人体·医药·卫生
+    Items: 155
+    Leaf categories: 11
+
+17. 各系统器官
+    Root: 人体·医药·卫生
+    Items: 144
+    Leaf categories: 16
+
+18. 人体动作(一般)
+    Root: 人体·医药·卫生
+    Items: 142
+    Leaf categories: 13
+
+19. 躯干和四肢
+    Root: 人体·医药·卫生
+    Items: 122
+    Leaf categories: 14
+
+20. 头部·面部
+    Root: 人体·医药·卫生
+    Items: 120
+    Leaf categories: 9
+
+21. 分泌·排泄
+    Root: 人体·医药·卫生
+    Items: 75
+    Leaf categories: 9
+
+22. 社会关系
+    Root: 人类·社会
+    Items: 507
+    Leaf categories: 47
+
+23. 社交
+    Root: 人类·社会
+    Items: 500
+    Leaf categories: 45
+
+24. 生活·境遇
+    Root: 人类·社会
+    Items: 467
+    Leaf categories: 46
+
+25. 地位·品类
+    Root: 人类·社会
+    Items: 409
+    Leaf categories: 42
+
+26. 家族
+    Root: 人类·社会
+    Items: 386
+    Leaf categories: 31
+
+27. 人
+    Root: 人类·社会
+    Items: 329
+    Leaf categories: 29
+
+28. 出生·养育·丧葬
+    Root: 人类·社会
+    Items: 321
+    Leaf categories: 36
+
+29. 性爱·婚姻·家庭
+    Root: 人类·社会
+    Items: 301
+    Leaf categories: 36
+
+30. 人群·社会
+    Root: 人类·社会
+    Items: 204
+    Leaf categories: 22
+
+31. 社会状况
+    Root: 人类·社会
+    Items: 167
+    Leaf categories: 17
+
+32. 种植业
+    Root: 农业
+    Items: 294
+    Leaf categories: 38
+
+33. 农业(一般)
+    Root: 农业
+    Items: 142
+    Leaf categories: 17
+
+34. 畜牧业
+    Root: 农业
+    Items: 71
+    Leaf categories: 12
+
+35. 水利
+    Root: 农业
+    Items: 66
+    Leaf categories: 8
+
+36. 养蚕·养蜂·打猎
+    Root: 农业
+    Items: 41
+    Leaf categories: 8
+
+37. 渔业
+    Root: 农业
+    Items: 34
+    Leaf categories: 7
+
+38. 林业
+    Root: 农业
+    Items: 33
+    Leaf categories: 5
+
+39. 时间
+    Root: 宇宙·地球
+    Items: 437
+    Leaf categories: 33
+
+40. 光·色
+    Root: 宇宙·地球
+    Items: 334
+    Leaf categories: 26
+
+41. 计时
+    Root: 宇宙·地球
+    Items: 290
+    Leaf categories: 20
+
+42. 气象
+    Root: 宇宙·地球
+    Items: 276
+    Leaf categories: 27
+
+43. 海洋·河流
+    Root: 宇宙·地球
+    Items: 237
+    Leaf categories: 28
+
+44. 陆地
+    Root: 宇宙·地球
+    Items: 224
+    Leaf categories: 26
+
+45. 宇宙
+    Root: 宇宙·地球
+    Items: 138
+    Leaf categories: 14
+
+46. 声
+    Root: 宇宙·地球
+    Items: 86
+    Leaf categories: 9
+
+47. 地球
+    Root: 宇宙·地球
+    Items: 83
+    Leaf categories: 10
+
+48. 方位
+    Root: 宇宙·地球
+    Items: 76
+    Leaf categories: 6
+
+49. 宗教
+    Root: 宗教·民间信仰
+    Items: 307
+    Leaf categories: 32
+
+50. 民间信仰
+    Root: 宗教·民间信仰
+    Items: 95
+    Leaf categories: 8
+
+LEAF CATEGORIES SUMMARY (Top 100)
+----------------------------------------
+  1. 个体量词(量)
+     Root: 数量
+     Parent: 常用量词
+     Items: 83
+
+  2. 礼貌用语(形、动等)
+     Root: 人类·社会
+     Parent: 社交
+     Items: 59
+
+  3. 集合量词(量)
+     Root: 数量
+     Parent: 常用量词
+     Items: 52
+
+  4. 鬼神·妖·魔(名)
+     Root: 宗教·民间信仰
+     Parent: 民间信仰
+     Items: 49
+
+  5. 夫妻(名)
+     Root: 人类·社会
+     Parent: 家族
+     Items: 49
+
+  6. 快乐(形)
+     Root: 感觉·情感·性格·行为
+     Parent: 情感
+     Items: 47
+
+  7. 花卉·观赏植物(名)
+     Root: 生命·生物
+     Parent: 各类植物
+     Items: 46
+
+  8. 树木(名)
+     Root: 生命·生物
+     Parent: 各类植物
+     Items: 43
+
+  9. 骄傲(形)
+     Root: 感觉·情感·性格·行为
+     Parent: 性格
+     Items: 43
+
+ 10. 神·佛·上帝(名)
+     Root: 宗教·民间信仰
+     Parent: 宗教
+     Items: 42
+
+ 11. 非常·多么(副)
+     Root: 事情·情状(一般)
+     Parent: 程度·范围·可能
+     Items: 40
+
+ 12. 穷(形)
+     Root: 饮食·衣服·居住·财产
+     Parent: 财产
+     Items: 39
+
+ 13. 认识·理解(动)
+     Root: 思想·语言·信息
+     Parent: 认识·知识·能力
+     Items: 39
+
+ 14. 基数词(数)
+     Root: 数量
+     Parent: 数目·数量
+     Items: 38
+
+ 15. 果树·水果(名)
+     Root: 生命·生物
+     Parent: 各类植物
+     Items: 38
+
+ 16. 蔬菜(名)
+     Root: 生命·生物
+     Parent: 各类植物
+     Items: 35
+
+ 17. 好看(形)
+     Root: 感觉·情感·性格·行为
+     Parent: 情感
+     Items: 35
+
+ 18. 年(名)
+     Root: 宇宙·地球
+     Parent: 计时
+     Items: 34
+
+ 19. 地方剧种(名)
+     Root: 教育·文化·艺术·体育
+     Parent: 戏剧·电影
+     Items: 34
+
+ 20. 意见(名)
+     Root: 思想·语言·信息
+     Parent: 思想·思维
+     Items: 34
+
+ 21. 教徒·信徒(名)
+     Root: 宗教·民间信仰
+     Parent: 宗教
+     Items: 34
+
+ 22. 报纸·刊物(名)
+     Root: 思想·语言·信息
+     Parent: 信息·通信·新闻
+     Items: 33
+
+ 23. 粮食·谷物(名)
+     Root: 生命·生物
+     Parent: 各类植物
+     Items: 33
+
+ 24. 地球(名)
+     Root: 宇宙·地球
+     Parent: 地球
+     Items: 33
+
+ 25. 多(形)
+     Root: 数量
+     Parent: 数目·数量
+     Items: 32
+
+ 26. 红(形)
+     Root: 宇宙·地球
+     Parent: 光·色
+     Items: 32
+
+ 27. 其他计量单位名称(量)
+     Root: 数量
+     Parent: 计量
+     Items: 32
+
+ 28. 杀害(动)
+     Root: 政治·法律·军事
+     Parent: 罪行·刑罚
+     Items: 32
+
+ 29. 好(形)
+     Root: 事情·情状(一般)
+     Parent: 情形·状况
+     Items: 32
+
+ 30. 季(名)
+     Root: 宇宙·地球
+     Parent: 计时
+     Items: 32
+
+ 31. 悲哀(形)
+     Root: 感觉·情感·性格·行为
+     Parent: 情感
+     Items: 32
+
+ 32. 农民(名)
+     Root: 农业
+     Parent: 农业(一般)
+     Items: 32
+
+ 33. 美貌(形)
+     Root: 人体·医药·卫生
+     Parent: 体态·容貌
+     Items: 31
+
+ 34. 灾祸(名)
+     Root: 人类·社会
+     Parent: 生活·境遇
+     Items: 31
+
+ 35. 家用灯具(名)
+     Root: 饮食·衣服·居住·财产
+     Parent: 家用器物
+     Items: 31
+
+ 36. 各部骨骼(名)
+     Root: 人体·医药·卫生
+     Parent: 人体(一般)
+     Items: 31
+
+ 37. 欺骗(动)
+     Root: 感觉·情感·性格·行为
+     Parent: 行为·态度
+     Items: 31
+
+ 38. 计划·打算(动)
+     Root: 思想·语言·信息
+     Parent: 思想·思维
+     Items: 31
+
+ 39. 皮肤病(名)
+     Root: 人体·医药·卫生
+     Parent: 疾病
+     Items: 30
+
+ 40. 躲避·隐藏(动)
+     Root: 行动·交通运输
+     Parent: 行动
+     Items: 30
+
+ 41. 药用植物(名)
+     Root: 生命·生物
+     Parent: 各类植物
+     Items: 30
+
+ 42. 商品·货物(名)
+     Root: 经济·商业·职业
+     Parent: 商业
+     Items: 30
+
+ 43. 害怕(动)
+     Root: 感觉·情感·性格·行为
+     Parent: 情感
+     Items: 30
+
+ 44. 惊慌(形)
+     Root: 感觉·情感·性格·行为
+     Parent: 情感
+     Items: 30
+
+ 45. 父母(名)
+     Root: 人类·社会
+     Parent: 家族
+     Items: 30
+
+ 46. 买(动)
+     Root: 经济·商业·职业
+     Parent: 商业
+     Items: 30
+
+ 47. 轻视(动)
+     Root: 感觉·情感·性格·行为
+     Parent: 情感
+     Items: 29
+
+ 48. 凶恶(形)
+     Root: 感觉·情感·性格·行为
+     Parent: 性格
+     Items: 29
+
+ 49. 时间长(形、副)
+     Root: 宇宙·地球
+     Parent: 时间
+     Items: 29
+
+ 50. 停止(动)
+     Root: 行动·交通运输
+     Parent: 行动
+     Items: 29
+
+ 51. 法(一般)(名)
+     Root: 政治·法律·军事
+     Parent: 法律(一般)
+     Items: 29
+
+ 52. 卧具(名)
+     Root: 饮食·衣服·居住·财产
+     Parent: 家用器物
+     Items: 29
+
+ 53. 调动·派遣(动)
+     Root: 政治·法律·军事
+     Parent: 行政
+     Items: 29
+
+ 54. 表示语气(助)
+     Root: 思想·语言·信息
+     Parent: 常用虚词
+     Items: 28
+
+ 55. 处罚·惩办(动)
+     Root: 政治·法律·军事
+     Parent: 诉讼·审判·检察
+     Items: 28
+
+ 56. 绿·青(形)
+     Root: 宇宙·地球
+     Parent: 光·色
+     Items: 28
+
+ 57. 逮捕·捕捉(动)
+     Root: 政治·法律·军事
+     Parent: 公安
+     Items: 28
+
+ 58. 显现·预示(动)
+     Root: 事情·情状(一般)
+     Parent: 发展·变化
+     Items: 28
+
+ 59. 叫·喊(动)
+     Root: 思想·语言·信息
+     Parent: 言语(一般)
+     Items: 28
+
+ 60. 防御(动)
+     Root: 政治·法律·军事
+     Parent: 战争
+     Items: 28
+
+ 61. 使用·利用(动)
+     Root: 事情·情状(一般)
+     Parent: 做事
+     Items: 28
+
+ 62. 军种·兵种(名)
+     Root: 政治·法律·军事
+     Parent: 军事
+     Items: 28
+
+ 63. 角色(名)
+     Root: 教育·文化·艺术·体育
+     Parent: 戏剧·电影
+     Items: 27
+
+ 64. 仆人·仆从(名)
+     Root: 人类·社会
+     Parent: 地位·品类
+     Items: 27
+
+ 65. 讥讽·嘲笑(动)
+     Root: 思想·语言·信息
+     Parent: 言语(各种方式)
+     Items: 27
+
+ 66. 田地·农田(名)
+     Root: 农业
+     Parent: 农业(一般)
+     Items: 27
+
+ 67. 机件(名)
+     Root: 工业·科技
+     Parent: 机器·设备·工具
+     Items: 27
+
+ 68. 日(名)
+     Root: 宇宙·地球
+     Parent: 计时
+     Items: 27
+
+ 69. 得到·接受(动)
+     Root: 饮食·衣服·居住·财产
+     Parent: 财产
+     Items: 27
+
+ 70. 责备(动)
+     Root: 思想·语言·信息
+     Parent: 言语(各种方式)
+     Items: 27
+
+ 71. 疲劳·无力(形、动)
+     Root: 人体·医药·卫生
+     Parent: 一般身体状况
+     Items: 27
+
+ 72. 相同(形)
+     Root: 事情·情状(一般)
+     Parent: 关联·异同
+     Items: 27
+
+ 73. 圣贤·君子(名)
+     Root: 人类·社会
+     Parent: 地位·品类
+     Items: 27
+
+ 74. 像·如同(动)
+     Root: 事情·情状(一般)
+     Parent: 关联·异同
+     Items: 27
+
+ 75. 坏(形)
+     Root: 事情·情状(一般)
+     Parent: 情形·状况
+     Items: 27
+
+ 76. 成立·创立(动)
+     Root: 事情·情状(一般)
+     Parent: 做事
+     Items: 26
+
+ 77. 节日(名)
+     Root: 宇宙·地球
+     Parent: 计时
+     Items: 26
+
+ 78. 合适(形)
+     Root: 事情·情状(一般)
+     Parent: 情形·状况
+     Items: 26
+
+ 79. 叙述(动)
+     Root: 思想·语言·信息
+     Parent: 言语(各种方式)
+     Items: 26
+
+ 80. 名声(名)
+     Root: 人类·社会
+     Parent: 地位·品类
+     Items: 26
+
+ 81. 时代(名)
+     Root: 宇宙·地球
+     Parent: 时间
+     Items: 26
+
+ 82. 广阔·狭隘(形)
+     Root: 宇宙·地球
+     Parent: 陆地
+     Items: 26
+
+ 83. 怒(动)
+     Root: 感觉·情感·性格·行为
+     Parent: 情感
+     Items: 26
+
+ 84. 宗教建筑(名)
+     Root: 宗教·民间信仰
+     Parent: 宗教
+     Items: 26
+
+ 85. 消失(动)
+     Root: 事情·情状(一般)
+     Parent: 发展·变化
+     Items: 26
+
+ 86. 缝纫(动)
+     Root: 饮食·衣服·居住·财产
+     Parent: 衣服制作·衣料
+     Items: 26
+
+ 87. 手段(名)
+     Root: 事情·情状(一般)
+     Parent: 因果·过程
+     Items: 26
+
+ 88. 温和·柔顺(形)
+     Root: 感觉·情感·性格·行为
+     Parent: 性格
+     Items: 26
+
+ 89. 取消·废止·免除(动)
+     Root: 事情·情状(一般)
+     Parent: 限制·破坏
+     Items: 25
+
+ 90. 白·灰(形)
+     Root: 宇宙·地球
+     Parent: 光·色
+     Items: 25
+
+ 91. 云·雾(名)
+     Root: 宇宙·地球
+     Parent: 气象
+     Items: 25
+
+ 92. 牛·羊·猪·兔(名 )
+     Root: 生命·生物
+     Parent: 哺乳动物
+     Items: 25
+
+ 93. 谄媚·奉承(动)
+     Root: 感觉·情感·性格·行为
+     Parent: 行为·态度
+     Items: 25
+
+ 94. 叛变·通敌(动)
+     Root: 政治·法律·军事
+     Parent: 政治
+     Items: 25
+
+ 95. 药物(一般)(名)
+     Root: 人体·医药·卫生
+     Parent: 医疗·药物
+     Items: 25
+
+ 96. 变更·改换(动)
+     Root: 事情·情状(一般)
+     Parent: 发展·变化
+     Items: 25
+
+ 97. 按·压·磨·撑(动)
+     Root: 工业·科技
+     Parent: 劳作·制造
+     Items: 25
+
+ 98. 想念(动)
+     Root: 思想·语言·信息
+     Parent: 思想·思维
+     Items: 25
+
+ 99. 说话(一般)(动)
+     Root: 思想·语言·信息
+     Parent: 言语(一般)
+     Items: 25
+
+100. 商量·接洽(动)
+     Root: 思想·语言·信息
+     Parent: 言语(各种方式)
+     Items: 25
+
+HIERARCHICAL ANALYSIS
+------------------------------
+Root categories with most parent categories:
+   1. 饮食·衣服·居住·财产: 13 parent categories
+   2. 人体·医药·卫生: 12 parent categories
+   3. 生命·生物: 12 parent categories
+   4. 政治·法律·军事: 11 parent categories
+   5. 教育·文化·艺术·体育: 10 parent categories
+   6. 人类·社会: 10 parent categories
+   7. 宇宙·地球: 10 parent categories
+   8. 行动·交通运输: 9 parent categories
+   9. 思想·语言·信息: 9 parent categories
+  10. 事情·情状(一般): 9 parent categories
+
+Parent categories with most leaf categories:
+   1. 行为·态度: 103 leaf categories
+   2. 情形·状况: 77 leaf categories
+   3. 情感: 75 leaf categories
+   4. 战争: 66 leaf categories
+   5. 言语(一般): 63 leaf categories
+   6. 言语(各种方式): 53 leaf categories
+   7. 阅读·写作: 51 leaf categories
+   8. 学校·教学: 50 leaf categories
+   9. 商业: 49 leaf categories
+  10. 思想·思维: 49 leaf categories
+
+ITEM DISTRIBUTION ANALYSIS
+------------------------------
+Item length distribution:
+  1 character(s): 5,504 items (15.3%)
+  2 character(s): 25,424 items (70.9%)
+  3 character(s): 2,343 items (6.5%)
+  4 character(s): 2,514 items (7.0%)
+  5 character(s): 50 items (0.1%)
+  6 character(s): 17 items (0.0%)
+  7 character(s): 5 items (0.0%)
+  8 character(s): 1 items (0.0%)
+  9 character(s): 2 items (0.0%)
+
+Items appearing in multiple categories: 4,864
+
+SERIAL NUMBER ANALYSIS
+------------------------------
+Root SN range: 1 to 17
+Parent SN range: 1 to 13
+Leaf SN range: 1 to 103
+
+ITEM RANK ANALYSIS
+------------------------------
+Rank range: 1 to 91612
+Mean rank: 23661.2
+Median rank: 17651.0
+
+Rank distribution:
+  0-100: 547 items (1.5%)
+  101-500: 1,590 items (4.4%)
+  501-1000: 1,597 items (4.5%)
+  1001-5000: 6,152 items (17.2%)
+  5001-10000: 3,460 items (9.6%)
+  10001+: 22,514 items (62.8%)

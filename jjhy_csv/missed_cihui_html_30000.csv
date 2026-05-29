@@ -1,0 +1,14 @@
+rank,cihui,pinyin,mismatch_parsed,invalid_parsed,has_subdefs,raw_html
+25313,武工,wǔgōng,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>武工</x-hw><x-pr> wǔgōng</x-pr>
+<dt>见“<a href=""entry://武功"" type=""see"">武功</a>”<x-f>。</x-f>现在一般写作“武功”<x-f>。</x-f></dt>
+"
+26024,子部,zǐbù,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>子部</x-hw><x-pr> zǐbù</x-pr><br><x-gram>名</x-gram>我国古代图书四部分类中的第三大部类。包括诸子百家的著作<x-f>。</x-f></dt>（也说丙部<x-f>。</x-f>）
+<dt>见“<a href=""entry://四部"" type=""see"">四部</a>”<x-f>。</x-f>
+"
+26433,颤栗,zhànlì,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>颤栗</x-hw><x-pr> zhànlì</x-pr><br>现在规范词形写作“<a href=""entry://战栗"" type=""normalized"">战栗</a>”<x-f>。</x-f>
+"
+27926,份内,fènnèi,False,True,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>份内</x-hw><x-pr> fènnèi</x-pr><br>现在规范词形写作“<a href=""entry://分内"" type=""normalized"">分内</a>”<x-f>。</x-f>
+"
+29913,份外,fènwài,False,False,False,"<link rel=""stylesheet"" type=""text/css"" href=""HYGF2.css""><script src='HYGF2.js'></script><x-hw>份外</x-hw><x-pr> fènwài</x-pr>
+<dt>见“<a href=""entry://分外"" type=""see"">分外</a>”<x-f>。</x-f>现在规范词形写作“<a href=""entry://分外"" type=""normalized"">分外</a>”<x-f>。</x-f>
+"
